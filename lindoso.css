@@ -1,0 +1,24 @@
+body {
+  margin: 20px;
+  background: Lavender !important;  /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+  }
+
+th {
+  min-width: 50px;
+  text-align: center;
+}
+
+div {
+  width:100%;
+}
+
+.top_valign {
+    vertical-align: top !important;
+    float: none;
+}
+
+.caixa {
+  max-width:717px;  
+}
+
+
